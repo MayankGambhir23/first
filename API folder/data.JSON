@@ -1,0 +1,31 @@
+{
+    "name":"mayank",
+    "age": 25,
+    "is-student": true,
+    "passport-no.":null,
+    "lang":["js","css","html"],
+    "address" :{
+        "city": "rohini",
+        "state":"delhi",
+        "pincode": 110085
+    }
+}
+
+
+
+{
+    "students" : [
+        {
+            "name":"mayank",
+            "age": 23
+        },
+        {
+            "name":"kunal",
+            "age": 21
+        },
+        {
+            "name":"XYZ",
+            "age":0
+        }
+    ]
+}

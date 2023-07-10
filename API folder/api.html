@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API web</title>
+
+</head>
+<body>
+    <script src="data.JS"></script>
+<p>Hello worldk </p>
+
+    <script>
+     async function getAPI(){
+        let result = await fetch('https://coronavirus.m.pipedream.net/');
+        result = await result.json
+        console.log(result)
+     }  
+     getAPI();    
+          </script>
+</body>
+</html>

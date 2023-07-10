@@ -1,0 +1,22 @@
+
+ul{
+    display: flex;
+}
+.li{
+    list-style-type: none;
+ 
+}
+#img1{
+    width: 100px;
+}
+.stylenv{
+ 
+    margin-top: 1%;
+    background-color:rgb(191, 103, 89);
+}
+#in1{
+    width: 35%;
+}
+#srh{
+    justify-self: end;
+}

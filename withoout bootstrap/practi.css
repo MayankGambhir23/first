@@ -1,0 +1,30 @@
+.nav{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+align-items: center;
+    border-radius: 1.5rem;
+}
+.logo{
+    align-items: center;
+}
+.link{
+display: flex;
+
+}
+.lk{
+list-style-type: none;
+margin: 0 1.1rem;
+font-size: 25px;
+font-weight: 500;
+}
+input{
+    width: 50%;
+}
+#img1{
+    width: 30%;
+}
+.shm{
+    text-align: center;
+    font-weight: bold;
+}
